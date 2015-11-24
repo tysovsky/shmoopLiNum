@@ -1,2 +1,2 @@
-#Test Addon
-A basic add-on
+#Shmoop LiNum
+Firefox extension to add lines to shmoop passages
