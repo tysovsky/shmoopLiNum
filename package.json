@@ -1,0 +1,16 @@
+{
+  "title": "Shmoop Line Numbers",
+  "name": "shmoopLiNum",
+  "version": "0.0.1",
+  "description": "Add number lines to shmoop passages",
+  "main": "index.js",
+  "author": "Taras Tysovskyi",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
