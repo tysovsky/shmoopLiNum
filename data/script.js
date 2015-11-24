@@ -13,13 +13,8 @@ $(function(){
 	var index = 0;
 	var linum = 1;
 	
-	//Insert number before the first line
-	//phtml = phtml.substr(0, 3) + linum +' &nbsp; ' + phtml.substr(3);
-
-	//linum++;
-
 	
-	//Loop through every line break in the passage  and insert number after it
+	//Loop through every line break/paragraph in the passage  and insert number after it
 	while (index != -1){
 
 	    index_b = phtml.indexOf('<br>', index + 5);
